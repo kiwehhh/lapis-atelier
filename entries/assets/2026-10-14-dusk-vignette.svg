@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="Georgia, 'Times New Roman', serif">
+<defs>
+<linearGradient id="dusk" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#0b1030"/>
+<stop offset="42%" stop-color="#1c2452"/>
+<stop offset="66%" stop-color="#5a3a63"/>
+<stop offset="82%" stop-color="#c97a4a"/>
+<stop offset="94%" stop-color="#f2b267"/>
+<stop offset="100%" stop-color="#f7cf8a"/>
+</linearGradient>
+<radialGradient id="afterglow" cx="50%" cy="100%" r="75%">
+<stop offset="0%" stop-color="#ffd9a0" stop-opacity="0.85"/>
+<stop offset="45%" stop-color="#e89a5c" stop-opacity="0.35"/>
+<stop offset="100%" stop-color="#e89a5c" stop-opacity="0"/>
+</radialGradient>
+<mask id="cres">
+<rect width="900" height="520" fill="black"/>
+<circle cx="600" cy="150" r="46" fill="white"/>
+<circle cx="566" cy="150" r="46" fill="black"/>
+</mask>
+<filter id="soft"><feGaussianBlur stdDeviation="2.2"/></filter>
+</defs>
+
+<rect width="900" height="520" fill="url(#dusk)"/>
+<rect width="900" height="520" fill="url(#afterglow)"/>
+
+<!-- a few early stars -->
+<g fill="#eef2ff">
+<circle cx="180" cy="70" r="2.2" opacity="0.85"/>
+<circle cx="330" cy="45" r="1.7" opacity="0.7"/>
+<circle cx="760" cy="60" r="2.4" opacity="0.9"/>
+<circle cx="70" cy="150" r="1.5" opacity="0.55"/>
+<circle cx="850" cy="140" r="1.6" opacity="0.6"/>
+</g>
+<text x="762" y="48" fill="#dfe6ff" font-size="13" font-style="italic" opacity="0.9">Vega, first out</text>
+
+<!-- moon: earthshine disk + crescent -->
+<circle cx="600" cy="150" r="46" fill="#b9c6ea" opacity="0.13"/>
+<circle cx="600" cy="150" r="46" fill="#f5ead0" mask="url(#cres)" filter="url(#soft)"/>
+<circle cx="600" cy="150" r="46" fill="none" stroke="#8b9bd0" stroke-width="0.8" opacity="0.35"/>
+<text x="600" y="222" text-anchor="middle" fill="#f3e9d2" font-size="14" font-style="italic">waxing crescent · 18% lit · sets 8:57 PM</text>
+
+<!-- distant ridge -->
+<path d="M0,430 L90,398 L170,418 L260,386 L350,414 L440,392 L530,420 L620,396 L710,418 L800,398 L900,424 L900,520 L0,520 Z" fill="#1a1f3d" opacity="0.95"/>
+<!-- nearer ridge -->
+<path d="M0,462 L120,436 L240,458 L360,434 L480,460 L610,438 L730,462 L850,442 L900,452 L900,520 L0,520 Z" fill="#11152c"/>
+
+<!-- rooftops -->
+<g fill="#0b0e20">
+<path d="M120,520 L120,478 L200,478 L200,520 Z"/>
+<path d="M112,478 L208,478 L160,452 Z"/>
+<path d="M330,520 L330,486 L430,486 L430,520 Z"/>
+<path d="M322,486 L438,486 L380,458 Z"/>
+<path d="M640,520 L640,482 L740,482 L740,520 Z"/>
+<path d="M632,482 L748,482 L690,456 Z"/>
+</g>
+<g fill="#ffca7a">
+<rect x="146" y="492" width="12" height="14" opacity="0.9"/>
+<rect x="372" y="498" width="12" height="14" opacity="0.85"/>
+<rect x="676" y="494" width="12" height="14" opacity="0.9"/>
+<rect x="700" y="494" width="10" height="14" opacity="0.7"/>
+</g>
+
+<text x="450" y="40" text-anchor="middle" fill="#f3e9d2" font-size="17" font-style="italic">8:00 PM — facing WSW, an hour before the deep-sky chart</text>
+<text x="450" y="500" text-anchor="middle" fill="#9aa3c7" font-size="12.5" font-style="italic">the sun set at 7:05 PM; the glow is its afterimage · rooftops and the far Owyhee ridge</text>
+</svg>

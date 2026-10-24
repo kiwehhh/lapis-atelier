@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" font-family="Georgia, 'Times New Roman', serif">
+  <!-- Specimen card -->
+  <rect x="0" y="0" width="600" height="700" fill="#efe6d0"/>
+  <rect x="24" y="24" width="552" height="652" fill="none" stroke="#6b5b3e" stroke-width="2.5"/>
+  <rect x="34" y="34" width="532" height="632" fill="none" stroke="#6b5b3e" stroke-width="1" opacity="0.5"/>
+
+  <text x="300" y="72" text-anchor="middle" font-size="22" letter-spacing="4" fill="#4a3b28">PLATE VII</text>
+  <text x="300" y="100" text-anchor="middle" font-size="16" font-style="italic" fill="#6b5b3e">Tie-on pocket, linen · crewel embroidery</text>
+  <text x="300" y="122" text-anchor="middle" font-size="12" letter-spacing="2" fill="#8a7a5c">AFTER MUSEUM DESCRIPTIONS · c. 1780</text>
+
+  <!-- Waist tapes (ties) -->
+  <path d="M 236 176 C 190 150, 150 140, 105 138" fill="none" stroke="#c9b48a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M 236 176 C 190 150, 150 140, 105 138" fill="none" stroke="#b09a70" stroke-width="14" stroke-linecap="round" stroke-dasharray="3 7" opacity="0.8"/>
+  <path d="M 364 176 C 410 150, 450 140, 495 138" fill="none" stroke="#c9b48a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M 364 176 C 410 150, 450 140, 495 138" fill="none" stroke="#b09a70" stroke-width="14" stroke-linecap="round" stroke-dasharray="3 7" opacity="0.8"/>
+
+  <!-- Pocket body -->
+  <path d="M 232 168
+           L 368 168
+           C 384 176, 392 196, 392 230
+           L 396 420
+           C 396 470, 356 506, 300 506
+           C 244 506, 204 470, 204 420
+           L 208 230
+           C 208 196, 216 176, 232 168 Z"
+        fill="#e3d3ac" stroke="#7a6544" stroke-width="3"/>
+
+  <!-- Waistband hem -->
+  <rect x="232" y="168" width="136" height="26" fill="#d8c49a" stroke="#7a6544" stroke-width="2"/>
+  <line x1="232" y1="181" x2="368" y2="181" stroke="#7a6544" stroke-width="1" stroke-dasharray="6 4" opacity="0.7"/>
+
+  <!-- Side slit shadow (the opening) -->
+  <path d="M 396 300 C 402 340, 402 380, 394 410" fill="none" stroke="#a68e5e" stroke-width="3" stroke-dasharray="2 6" opacity="0.8"/>
+  <text x="430" y="356" font-size="11" font-style="italic" fill="#8a7a5c" transform="rotate(90 430 356)">slit for the hand</text>
+
+  <!-- Running-stitch border inside body -->
+  <path d="M 246 216 L 246 418 C 246 456, 270 486, 300 486 C 330 486, 354 456, 354 418 L 354 216"
+        fill="none" stroke="#8a6f45" stroke-width="2" stroke-dasharray="7 5"/>
+
+  <!-- Embroidery: central sprig -->
+  <!-- main stem -->
+  <path d="M 300 470 C 296 400, 304 340, 300 250" fill="none" stroke="#5c6e3a" stroke-width="4" stroke-linecap="round"/>
+  <!-- side stems -->
+  <path d="M 300 430 C 270 410, 256 390, 250 362" fill="none" stroke="#5c6e3a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 300 430 C 330 410, 344 390, 350 362" fill="none" stroke="#5c6e3a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 300 360 C 276 344, 266 328, 262 306" fill="none" stroke="#5c6e3a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 300 360 C 324 344, 334 328, 338 306" fill="none" stroke="#5c6e3a" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- leaves -->
+  <g fill="#6f8247" stroke="#4c5e30" stroke-width="1.5">
+    <ellipse cx="262" cy="380" rx="13" ry="7" transform="rotate(-38 262 380)"/>
+    <ellipse cx="338" cy="380" rx="13" ry="7" transform="rotate(38 338 380)"/>
+    <ellipse cx="268" cy="322" rx="11" ry="6" transform="rotate(-30 268 322)"/>
+    <ellipse cx="332" cy="322" rx="11" ry="6" transform="rotate(30 332 322)"/>
+    <ellipse cx="300" cy="240" rx="10" ry="6" transform="rotate(80 300 240)"/>
+  </g>
+
+  <!-- flowers: madder-red crewel roses -->
+  <g stroke="#7e2f1f" stroke-width="1.5">
+    <!-- top flower -->
+    <g transform="translate(300 216)">
+      <circle r="20" fill="#a53f2b"/>
+      <circle r="12" fill="#c0553a"/>
+      <circle r="6" fill="#8a3423"/>
+      <path d="M 0 -20 C 6 -14, 6 -6, 0 0 C -6 -6, -6 -14, 0 -20" fill="none"/>
+      <path d="M -19 6 C -12 4, -6 8, -4 14 C -10 14, -16 12, -19 6" fill="none"/>
+    </g>
+    <!-- left flower -->
+    <g transform="translate(238 352)">
+      <circle r="16" fill="#a53f2b"/>
+      <circle r="9" fill="#c0553a"/>
+      <circle r="4" fill="#8a3423"/>
+    </g>
+    <!-- right flower -->
+    <g transform="translate(362 352)">
+      <circle r="16" fill="#a53f2b"/>
+      <circle r="9" fill="#c0553a"/>
+      <circle r="4" fill="#8a3423"/>
+    </g>
+    <!-- lower buds -->
+    <g transform="translate(300 452)">
+      <circle r="12" fill="#a53f2b"/>
+      <circle r="6" fill="#c0553a"/>
+    </g>
+  </g>
+  <!-- buds stems -->
+  <path d="M 300 452 C 300 460, 300 464, 300 470" fill="none" stroke="#5c6e3a" stroke-width="3"/>
+
+  <!-- indigo sprigs at corners -->
+  <g stroke="#2f4b6e" stroke-width="2" fill="none">
+    <path d="M 256 250 C 262 262, 262 274, 258 286"/>
+    <path d="M 344 250 C 338 262, 338 274, 342 286"/>
+  </g>
+  <g fill="#2f4b6e">
+    <circle cx="258" cy="288" r="4"/>
+    <circle cx="342" cy="288" r="4"/>
+    <circle cx="260" cy="262" r="2.5"/>
+    <circle cx="340" cy="262" r="2.5"/>
+  </g>
+
+  <!-- caption -->
+  <text x="300" y="560" text-anchor="middle" font-size="13" font-style="italic" fill="#4a3b28">
+    Worn beneath the skirts; reached through a slit in the outer seam.
+  </text>
+  <text x="300" y="584" text-anchor="middle" font-size="13" font-style="italic" fill="#4a3b28">
+    Twelve to sixteen inches of a woman's private property.
+  </text>
+
+  <line x1="120" y1="616" x2="480" y2="616" stroke="#6b5b3e" stroke-width="1" opacity="0.6"/>
+  <text x="300" y="644" text-anchor="middle" font-size="12" letter-spacing="3" fill="#6b5b3e">CABINET OF THE ATELIER · No. 7</text>
+</svg>

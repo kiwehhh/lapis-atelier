@@ -1,0 +1,261 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1240" width="1600" height="1240">
+<rect width="1600" height="1240" fill="#f3ead6"/>
+<ellipse cx="874" cy="477" rx="85" ry="15" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="610" cy="390" rx="70" ry="34" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="649" cy="1126" rx="26" ry="42" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="939" cy="77" rx="57" ry="19" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="493" cy="1052" rx="43" ry="22" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="244" cy="1208" rx="71" ry="20" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="80" cy="1126" rx="37" ry="45" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="20" cy="729" rx="51" ry="36" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="244" cy="376" rx="57" ry="49" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="161" cy="267" rx="53" ry="19" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="1552" cy="526" rx="39" ry="16" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="526" cy="830" rx="44" ry="44" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="981" cy="37" rx="30" ry="26" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="387" cy="768" rx="91" ry="28" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="284" cy="653" rx="89" ry="18" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="596" cy="82" rx="75" ry="23" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="1071" cy="269" rx="82" ry="15" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="746" cy="225" rx="34" ry="36" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="1544" cy="968" rx="61" ry="22" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="496" cy="1082" rx="86" ry="24" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="953" cy="462" rx="74" ry="55" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="249" cy="310" rx="45" ry="21" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="718" cy="878" rx="44" ry="50" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="525" cy="911" rx="48" ry="23" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="1074" cy="882" rx="43" ry="47" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="1267" cy="686" rx="78" ry="21" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="1084" cy="784" rx="39" ry="26" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="817" cy="855" rx="83" ry="19" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="1229" cy="952" rx="67" ry="47" fill="#e7dabd" opacity="0.25"/>
+<ellipse cx="1508" cy="688" rx="65" ry="28" fill="#e7dabd" opacity="0.25"/>
+<text x="70" y="74" font-family="Georgia, serif" font-size="46" text-anchor="start" font-weight="bold" fill="#2e2a24">Little Aeronauts: How Spiders Fly on Electricity</text>
+<text x="70" y="112" font-family="Georgia, serif" font-size="22" font-style="italic" text-anchor="start" font-weight="normal" fill="#2e2a24">a gossamer plate — tiptoe, fan, field, and a ship sixty miles from shore · seed 20261021</text>
+<rect x="70" y="150" width="480" height="430" fill="none" stroke="#2e2a24" stroke-width="2.5"/>
+<rect x="78" y="158" width="464" height="414" fill="none" stroke="#2e2a24" stroke-width="1" opacity="0.5"/>
+<text x="92" y="188" font-family="Georgia, serif" font-size="25" text-anchor="start" font-weight="bold" fill="#2e2a24">A · The Tiptoe Test</text>
+<path d="M 300 550 Q 315 400 335 300" fill="none" stroke="#5a7c3f" stroke-width="7" stroke-linecap="round"/>
+<path d="M 190 550 Q 220 450 180 360" fill="none" stroke="#5a7c3f" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+<line x1="90" y1="550" x2="530" y2="550" stroke="#2e2a24" stroke-width="2"/>
+<ellipse cx="338" cy="285.7" rx="11.5" ry="9.2" fill="#a63a2a"/>
+<ellipse cx="338" cy="267.3" rx="14.95" ry="11.5" fill="#a63a2a" opacity="0.92"/>
+<path d="M 331 288 L 317 274 L 308 300" fill="none" stroke="#2e2a24" stroke-width="2.53" stroke-linecap="round"/>
+<path d="M 331 288 L 317 272 L 305 304" fill="none" stroke="#2e2a24" stroke-width="2.53" stroke-linecap="round"/>
+<path d="M 331 288 L 317 270 L 301 309" fill="none" stroke="#2e2a24" stroke-width="2.53" stroke-linecap="round"/>
+<path d="M 331 288 L 317 268 L 298 313" fill="none" stroke="#2e2a24" stroke-width="2.53" stroke-linecap="round"/>
+<path d="M 345 288 L 359 274 L 368 300" fill="none" stroke="#2e2a24" stroke-width="2.53" stroke-linecap="round"/>
+<path d="M 345 288 L 359 272 L 371 304" fill="none" stroke="#2e2a24" stroke-width="2.53" stroke-linecap="round"/>
+<path d="M 345 288 L 359 270 L 375 309" fill="none" stroke="#2e2a24" stroke-width="2.53" stroke-linecap="round"/>
+<path d="M 345 288 L 359 268 L 378 313" fill="none" stroke="#2e2a24" stroke-width="2.53" stroke-linecap="round"/>
+<path d="M 400 245 q 30 -8 60 0" fill="none" stroke="#2b4a8a" stroke-width="2" opacity="0.8"/>
+<path d="M 400 270 q 30 -8 60 0" fill="none" stroke="#2b4a8a" stroke-width="2" opacity="0.8"/>
+<path d="M 400 295 q 30 -8 60 0" fill="none" stroke="#2b4a8a" stroke-width="2" opacity="0.8"/>
+<text x="400" y="232" font-family="Georgia, serif" font-size="17" font-style="italic" text-anchor="start" font-weight="normal" fill="#2e2a24">testing the air</text>
+<text x="400" y="330" font-family="Georgia, serif" font-size="17" text-anchor="start" font-weight="normal" fill="#2e2a24">one leg raised —</text>
+<text x="400" y="353" font-family="Georgia, serif" font-size="17" font-style="italic" text-anchor="start" font-weight="normal" fill="#2e2a24">a weather station</text>
+<line x1="338" y1="300" x2="300" y2="545" stroke="#8a8578" stroke-width="1.4" stroke-dasharray="5,4"/>
+<text x="165" y="515" font-family="Georgia, serif" font-size="16" font-style="italic" text-anchor="start" font-weight="normal" fill="#2e2a24">anchor dragline,</text>
+<text x="165" y="536" font-family="Georgia, serif" font-size="16" font-style="italic" text-anchor="start" font-weight="normal" fill="#2e2a24">kept until lift wins</text>
+<text x="70" y="612" font-family="Georgia, serif" font-size="20" text-anchor="start" font-weight="normal" fill="#2e2a24">A · First, climb highest. Then stand on tiptoe,</text>
+<text x="70" y="637" font-family="Georgia, serif" font-size="20" text-anchor="start" font-weight="normal" fill="#2e2a24">abdomen to the sky, and interrogate the air.</text>
+<rect x="560" y="150" width="480" height="430" fill="none" stroke="#2e2a24" stroke-width="2.5"/>
+<rect x="568" y="158" width="464" height="414" fill="none" stroke="#2e2a24" stroke-width="1" opacity="0.5"/>
+<text x="582" y="188" font-family="Georgia, serif" font-size="25" text-anchor="start" font-weight="bold" fill="#2e2a24">B · The Fan, Not a Parachute</text>
+<ellipse cx="800" cy="508.0" rx="10.0" ry="8.0" fill="#2e2a24"/>
+<ellipse cx="800" cy="492.0" rx="13.0" ry="10.0" fill="#2e2a24" opacity="0.92"/>
+<path d="M 794 510 L 782 498 L 774 520" fill="none" stroke="#2e2a24" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M 794 510 L 782 496 L 771 524" fill="none" stroke="#2e2a24" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M 794 510 L 782 494 L 768 528" fill="none" stroke="#2e2a24" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M 794 510 L 782 492 L 765 532" fill="none" stroke="#2e2a24" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M 806 510 L 818 498 L 826 520" fill="none" stroke="#2e2a24" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M 806 510 L 818 496 L 829 524" fill="none" stroke="#2e2a24" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M 806 510 L 818 494 L 832 528" fill="none" stroke="#2e2a24" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M 806 510 L 818 492 L 835 532" fill="none" stroke="#2e2a24" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M 800 485 Q 715 444 621 399" fill="none" stroke="#b9b09a" stroke-width="1.6"/>
+<path d="M 800 485 Q 723 422 638 354" fill="none" stroke="#b9b09a" stroke-width="1.6"/>
+<path d="M 800 485 Q 734 403 661 315" fill="none" stroke="#b9b09a" stroke-width="1.6"/>
+<path d="M 800 485 Q 748 387 690 281" fill="none" stroke="#b9b09a" stroke-width="1.6"/>
+<path d="M 800 485 Q 763 375 723 257" fill="none" stroke="#b9b09a" stroke-width="1.6"/>
+<path d="M 800 485 Q 781 368 759 241" fill="none" stroke="#b9b09a" stroke-width="1.6"/>
+<path d="M 800 485 Q 798 365 797 235" fill="none" stroke="#b9b09a" stroke-width="1.6"/>
+<path d="M 800 485 Q 816 367 835 239" fill="none" stroke="#b9b09a" stroke-width="1.6"/>
+<path d="M 800 485 Q 834 374 871 253" fill="none" stroke="#b9b09a" stroke-width="1.6"/>
+<path d="M 800 485 Q 850 385 905 277" fill="none" stroke="#b9b09a" stroke-width="1.6"/>
+<path d="M 800 485 Q 864 400 934 308" fill="none" stroke="#b9b09a" stroke-width="1.6"/>
+<path d="M 800 485 Q 875 419 958 347" fill="none" stroke="#b9b09a" stroke-width="1.6"/>
+<path d="M 800 485 Q 883 440 976 391" fill="none" stroke="#b9b09a" stroke-width="1.6"/>
+<text x="800" y="242" font-family="Georgia, serif" font-size="17" font-style="italic" text-anchor="middle" font-weight="normal" fill="#2e2a24">strands repel — like charges spread the fan</text>
+<text x="590" y="545" font-family="Georgia, serif" font-size="17" text-anchor="start" font-weight="normal" fill="#2e2a24">up to ~60 fibres · most ~200 nm across · metres long</text>
+<text x="560" y="612" font-family="Georgia, serif" font-size="20" text-anchor="start" font-weight="normal" fill="#2e2a24">B · No single sail: dozens of nanoscale fibres,</text>
+<text x="560" y="637" font-family="Georgia, serif" font-size="20" text-anchor="start" font-weight="normal" fill="#2e2a24">where the air itself turns sticky, like honey.</text>
+<rect x="1050" y="150" width="480" height="430" fill="none" stroke="#2e2a24" stroke-width="2.5"/>
+<rect x="1058" y="158" width="464" height="414" fill="none" stroke="#2e2a24" stroke-width="1" opacity="0.5"/>
+<text x="1072" y="188" font-family="Georgia, serif" font-size="25" text-anchor="start" font-weight="bold" fill="#2e2a24">C · The Invisible Weather</text>
+<rect x="1065" y="480" width="450" height="70" fill="#8a6f45"/>
+<text x="1080" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1104" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1128" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1152" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1176" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1200" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1224" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1248" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1272" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1296" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1320" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1344" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1368" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1392" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1416" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1440" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1464" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1488" y="515" font-family="Georgia, serif" font-size="22" fill="#f7efdb">−</text>
+<text x="1080" y="542" font-family="Georgia, serif" font-size="17" text-anchor="start" font-weight="normal" fill="#f7efdb">earth: negative</text>
+<text x="1085" y="230" font-family="Georgia, serif" font-size="22" fill="#2b4a8a">+</text>
+<text x="1129" y="258" font-family="Georgia, serif" font-size="22" fill="#2b4a8a">+</text>
+<text x="1173" y="230" font-family="Georgia, serif" font-size="22" fill="#2b4a8a">+</text>
+<text x="1217" y="258" font-family="Georgia, serif" font-size="22" fill="#2b4a8a">+</text>
+<text x="1261" y="230" font-family="Georgia, serif" font-size="22" fill="#2b4a8a">+</text>
+<text x="1305" y="258" font-family="Georgia, serif" font-size="22" fill="#2b4a8a">+</text>
+<text x="1349" y="230" font-family="Georgia, serif" font-size="22" fill="#2b4a8a">+</text>
+<text x="1393" y="258" font-family="Georgia, serif" font-size="22" fill="#2b4a8a">+</text>
+<text x="1437" y="230" font-family="Georgia, serif" font-size="22" fill="#2b4a8a">+</text>
+<text x="1481" y="258" font-family="Georgia, serif" font-size="22" fill="#2b4a8a">+</text>
+<text x="1380" y="220" font-family="Georgia, serif" font-size="17" text-anchor="start" font-weight="normal" fill="#2b4a8a">sky: positive</text>
+<line x1="1160" y1="465" x2="1160" y2="290" stroke="#d9a441" stroke-width="3"/>
+<polygon points="1153,290 1167,290 1160,276" fill="#d9a441"/>
+<line x1="1290" y1="465" x2="1290" y2="290" stroke="#d9a441" stroke-width="3"/>
+<polygon points="1283,290 1297,290 1290,276" fill="#d9a441"/>
+<line x1="1420" y1="465" x2="1420" y2="290" stroke="#d9a441" stroke-width="3"/>
+<polygon points="1413,290 1427,290 1420,276" fill="#d9a441"/>
+<path d="M 1290 480 L 1290 365 M 1290 410 L 1255 375 M 1290 395 L 1328 355" fill="none" stroke="#2e2a24" stroke-width="5" stroke-linecap="round"/>
+<circle cx="1290" cy="355" r="20" fill="none" stroke="#a63a2a" stroke-width="2.2" stroke-dasharray="5,4"/>
+<text x="1325" y="350" font-family="Georgia, serif" font-size="16" text-anchor="start" font-weight="normal" fill="#a63a2a">sharp tips</text>
+<text x="1325" y="370" font-family="Georgia, serif" font-size="16" font-style="italic" text-anchor="start" font-weight="normal" fill="#a63a2a">concentrate it</text>
+<text x="1080" y="450" font-family="Georgia, serif" font-size="19" text-anchor="start" font-weight="bold" fill="#2e2a24">fair weather ≈ 120 V per metre</text>
+<text x="1325" y="450" font-family="Georgia, serif" font-size="17" font-style="italic" text-anchor="start" font-weight="normal" fill="#2e2a24">storms: kilovolts / m</text>
+<text x="1050" y="612" font-family="Georgia, serif" font-size="20" text-anchor="start" font-weight="normal" fill="#2e2a24">C · A permanent voltage lives between ground</text>
+<text x="1050" y="637" font-family="Georgia, serif" font-size="20" text-anchor="start" font-weight="normal" fill="#2e2a24">and sky — spiders read it like we read wind.</text>
+<rect x="70" y="640" width="480" height="430" fill="none" stroke="#2e2a24" stroke-width="2.5"/>
+<rect x="78" y="648" width="464" height="414" fill="none" stroke="#2e2a24" stroke-width="1" opacity="0.5"/>
+<text x="92" y="678" font-family="Georgia, serif" font-size="25" text-anchor="start" font-weight="bold" fill="#2e2a24">D · The Bristol Switch (2018)</text>
+<rect x="125" y="720" width="240" height="250" fill="#eef0e8" stroke="#2e2a24" stroke-width="2"/>
+<text x="245" y="745" font-family="Georgia, serif" font-size="16" font-style="italic" text-anchor="middle" font-weight="normal" fill="#2e2a24">sealed box · no airflow</text>
+<rect x="225" y="790" width="38" height="150" fill="#c9a876" stroke="#2e2a24"/>
+<ellipse cx="245" cy="813.5" rx="7.5" ry="6.0" fill="#a63a2a"/>
+<ellipse cx="245" cy="801.5" rx="9.75" ry="7.5" fill="#a63a2a" opacity="0.92"/>
+<path d="M 240 815 L 232 806 L 226 822" fill="none" stroke="#2e2a24" stroke-width="1.6500000000000001" stroke-linecap="round"/>
+<path d="M 240 815 L 232 804 L 223 826" fill="none" stroke="#2e2a24" stroke-width="1.6500000000000001" stroke-linecap="round"/>
+<path d="M 240 815 L 232 802 L 221 828" fill="none" stroke="#2e2a24" stroke-width="1.6500000000000001" stroke-linecap="round"/>
+<path d="M 240 815 L 232 800 L 219 832" fill="none" stroke="#2e2a24" stroke-width="1.6500000000000001" stroke-linecap="round"/>
+<path d="M 250 815 L 258 806 L 264 822" fill="none" stroke="#2e2a24" stroke-width="1.6500000000000001" stroke-linecap="round"/>
+<path d="M 250 815 L 258 804 L 267 826" fill="none" stroke="#2e2a24" stroke-width="1.6500000000000001" stroke-linecap="round"/>
+<path d="M 250 815 L 258 802 L 269 828" fill="none" stroke="#2e2a24" stroke-width="1.6500000000000001" stroke-linecap="round"/>
+<path d="M 250 815 L 258 800 L 271 832" fill="none" stroke="#2e2a24" stroke-width="1.6500000000000001" stroke-linecap="round"/>
+<ellipse cx="245" cy="919.8" rx="6.0" ry="4.8" fill="#8a8578"/>
+<ellipse cx="245" cy="912.6" rx="7.8" ry="6.0" fill="#8a8578" opacity="0.92"/>
+<path d="M 241 915 L 234 908 L 229 921" fill="none" stroke="#2e2a24" stroke-width="1.32" stroke-linecap="round"/>
+<path d="M 241 915 L 234 906 L 228 923" fill="none" stroke="#2e2a24" stroke-width="1.32" stroke-linecap="round"/>
+<path d="M 241 915 L 234 904 L 226 926" fill="none" stroke="#2e2a24" stroke-width="1.32" stroke-linecap="round"/>
+<path d="M 241 915 L 234 902 L 224 928" fill="none" stroke="#2e2a24" stroke-width="1.32" stroke-linecap="round"/>
+<path d="M 249 915 L 256 908 L 261 921" fill="none" stroke="#2e2a24" stroke-width="1.32" stroke-linecap="round"/>
+<path d="M 249 915 L 256 906 L 262 923" fill="none" stroke="#2e2a24" stroke-width="1.32" stroke-linecap="round"/>
+<path d="M 249 915 L 256 904 L 264 926" fill="none" stroke="#2e2a24" stroke-width="1.32" stroke-linecap="round"/>
+<path d="M 249 915 L 256 902 L 266 928" fill="none" stroke="#2e2a24" stroke-width="1.32" stroke-linecap="round"/>
+<path d="M 285 820 L 285 900" stroke="#2b4a8a" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="295" y="865" font-family="Georgia, serif" font-size="17" text-anchor="start" font-weight="bold" fill="#2b4a8a">field ON ↑ · OFF ↓</text>
+<circle cx="455" cy="815" r="62" fill="#f7efdb" stroke="#2e2a24" stroke-width="2"/>
+<line x1="455" y1="845" x2="473" y2="796" stroke="#2e2a24" stroke-width="2"/>
+<line x1="455" y1="845" x2="490" y2="806" stroke="#2e2a24" stroke-width="2"/>
+<line x1="455" y1="845" x2="502" y2="822" stroke="#2e2a24" stroke-width="2"/>
+<line x1="455" y1="845" x2="507" y2="841" stroke="#2e2a24" stroke-width="2"/>
+<line x1="455" y1="845" x2="504" y2="861" stroke="#2e2a24" stroke-width="2"/>
+<line x1="455" y1="845" x2="495" y2="878" stroke="#2e2a24" stroke-width="2"/>
+<line x1="455" y1="845" x2="479" y2="891" stroke="#2e2a24" stroke-width="2"/>
+<text x="455" y="900" font-family="Georgia, serif" font-size="16" text-anchor="middle" font-weight="normal" fill="#2e2a24">trichobothria —</text>
+<text x="455" y="922" font-family="Georgia, serif" font-size="16" font-style="italic" text-anchor="middle" font-weight="normal" fill="#2e2a24">hairs that feel</text>
+<text x="455" y="942" font-family="Georgia, serif" font-size="16" font-style="italic" text-anchor="middle" font-weight="normal" fill="#2e2a24">electric fields</text>
+<text x="125" y="1010" font-family="Georgia, serif" font-size="18" text-anchor="start" font-weight="normal" fill="#2e2a24">Erigone money spiders tiptoed when the field</text>
+<text x="125" y="1034" font-family="Georgia, serif" font-size="18" text-anchor="start" font-weight="normal" fill="#2e2a24">was switched on — and settled when it stopped.</text>
+<text x="70" y="1102" font-family="Georgia, serif" font-size="20" text-anchor="start" font-weight="normal" fill="#2e2a24">D · Turn the invisible weather on, and a wingless</text>
+<text x="70" y="1127" font-family="Georgia, serif" font-size="20" text-anchor="start" font-weight="normal" fill="#2e2a24">animal prepares to fly. Turn it off, it lands.</text>
+<rect x="560" y="640" width="480" height="430" fill="none" stroke="#2e2a24" stroke-width="2.5"/>
+<rect x="568" y="648" width="464" height="414" fill="none" stroke="#2e2a24" stroke-width="1" opacity="0.5"/>
+<text x="582" y="678" font-family="Georgia, serif" font-size="25" text-anchor="start" font-weight="bold" fill="#2e2a24">E · Sixty Miles from Shore</text>
+<rect x="569" y="940" width="462" height="121" fill="#7fa3c4" opacity="0.55"/>
+<path d="M 590 970 q 14 -8 28 0" fill="none" stroke="#2b4a8a" stroke-width="1.8"/>
+<path d="M 645 992 q 14 -8 28 0" fill="none" stroke="#2b4a8a" stroke-width="1.8"/>
+<path d="M 700 970 q 14 -8 28 0" fill="none" stroke="#2b4a8a" stroke-width="1.8"/>
+<path d="M 755 992 q 14 -8 28 0" fill="none" stroke="#2b4a8a" stroke-width="1.8"/>
+<path d="M 810 970 q 14 -8 28 0" fill="none" stroke="#2b4a8a" stroke-width="1.8"/>
+<path d="M 865 992 q 14 -8 28 0" fill="none" stroke="#2b4a8a" stroke-width="1.8"/>
+<path d="M 920 970 q 14 -8 28 0" fill="none" stroke="#2b4a8a" stroke-width="1.8"/>
+<path d="M 975 992 q 14 -8 28 0" fill="none" stroke="#2b4a8a" stroke-width="1.8"/>
+<path d="M 670 940 L 930 940 L 895 975 L 705 975 Z" fill="#6b4a2f" stroke="#2e2a24" stroke-width="2"/>
+<line x1="745" y1="940" x2="745" y2="750" stroke="#2e2a24" stroke-width="4"/>
+<line x1="745" y1="765" x2="687" y2="840" stroke="#2e2a24" stroke-width="1.6"/>
+<line x1="745" y1="765" x2="803" y2="840" stroke="#2e2a24" stroke-width="1.6"/>
+<line x1="850" y1="940" x2="850" y2="750" stroke="#2e2a24" stroke-width="4"/>
+<line x1="850" y1="765" x2="792" y2="840" stroke="#2e2a24" stroke-width="1.6"/>
+<line x1="850" y1="765" x2="908" y2="840" stroke="#2e2a24" stroke-width="1.6"/>
+<path d="M 752 843 q 22 6 44 -2" fill="none" stroke="#ffffff" stroke-width="2.4" opacity="0.9"/>
+<circle cx="752" cy="843" r="3.2" fill="#a63a2a"/>
+<path d="M 859 835 q 22 6 44 -2" fill="none" stroke="#ffffff" stroke-width="2.4" opacity="0.9"/>
+<circle cx="859" cy="835" r="3.2" fill="#a63a2a"/>
+<path d="M 751 764 q 22 6 44 -2" fill="none" stroke="#ffffff" stroke-width="2.4" opacity="0.9"/>
+<circle cx="751" cy="764" r="3.2" fill="#a63a2a"/>
+<path d="M 776 805 q 22 6 44 -2" fill="none" stroke="#ffffff" stroke-width="2.4" opacity="0.9"/>
+<circle cx="776" cy="805" r="3.2" fill="#a63a2a"/>
+<path d="M 882 786 q 22 6 44 -2" fill="none" stroke="#ffffff" stroke-width="2.4" opacity="0.9"/>
+<circle cx="882" cy="786" r="3.2" fill="#a63a2a"/>
+<path d="M 822 761 q 22 6 44 -2" fill="none" stroke="#ffffff" stroke-width="2.4" opacity="0.9"/>
+<circle cx="822" cy="761" r="3.2" fill="#a63a2a"/>
+<path d="M 824 794 q 22 6 44 -2" fill="none" stroke="#ffffff" stroke-width="2.4" opacity="0.9"/>
+<circle cx="824" cy="794" r="3.2" fill="#a63a2a"/>
+<path d="M 715 771 q 22 6 44 -2" fill="none" stroke="#ffffff" stroke-width="2.4" opacity="0.9"/>
+<circle cx="715" cy="771" r="3.2" fill="#a63a2a"/>
+<path d="M 702 774 q 22 6 44 -2" fill="none" stroke="#ffffff" stroke-width="2.4" opacity="0.9"/>
+<circle cx="702" cy="774" r="3.2" fill="#a63a2a"/>
+<path d="M 808 775 q 22 6 44 -2" fill="none" stroke="#ffffff" stroke-width="2.4" opacity="0.9"/>
+<circle cx="808" cy="775" r="3.2" fill="#a63a2a"/>
+<text x="800" y="730" font-family="Georgia, serif" font-size="18" font-style="italic" text-anchor="middle" font-weight="normal" fill="#2e2a24">HMS Beagle · 31 Oct – 1 Nov 1832</text>
+<text x="800" y="1020" font-family="Georgia, serif" font-size="18" text-anchor="middle" font-weight="normal" fill="#2e2a24">“some thousands on the ship” — Darwin</text>
+<text x="800" y="1045" font-family="Georgia, serif" font-size="16" font-style="italic" text-anchor="middle" font-weight="normal" fill="#2e2a24">each ~one-tenth of an inch, dusky red</text>
+<text x="560" y="1102" font-family="Georgia, serif" font-size="20" text-anchor="start" font-weight="normal" fill="#2e2a24">E · They arrived under their own silk, at sea,</text>
+<text x="560" y="1127" font-family="Georgia, serif" font-size="20" text-anchor="start" font-weight="normal" fill="#2e2a24">with a rapidity Darwin called unaccountable.</text>
+<rect x="1050" y="640" width="480" height="430" fill="none" stroke="#2e2a24" stroke-width="2.5"/>
+<rect x="1058" y="648" width="464" height="414" fill="none" stroke="#2e2a24" stroke-width="1" opacity="0.5"/>
+<text x="1072" y="678" font-family="Georgia, serif" font-size="25" text-anchor="start" font-weight="bold" fill="#2e2a24">F · First Ashore</text>
+<path d="M 1090 980 L 1240 810 L 1300 785 L 1380 825 L 1490 980 Z" fill="#9a8f7d" stroke="#2e2a24" stroke-width="2"/>
+<path d="M 1240 810 L 1300 785 L 1325 825 L 1265 840 Z" fill="#6f6656"/>
+<path d="M 1350 910 q 18 10 10 28" fill="none" stroke="#2e2a24" stroke-width="3"/>
+<ellipse cx="1372" cy="928.4" rx="8.0" ry="6.4" fill="#a63a2a"/>
+<ellipse cx="1372" cy="918.8" rx="10.4" ry="8.0" fill="#a63a2a" opacity="0.92"/>
+<path d="M 1367 922 L 1358 912 L 1351 930" fill="none" stroke="#2e2a24" stroke-width="1.7600000000000002" stroke-linecap="round"/>
+<path d="M 1367 922 L 1358 910 L 1349 933" fill="none" stroke="#2e2a24" stroke-width="1.7600000000000002" stroke-linecap="round"/>
+<path d="M 1367 922 L 1358 908 L 1346 936" fill="none" stroke="#2e2a24" stroke-width="1.7600000000000002" stroke-linecap="round"/>
+<path d="M 1367 922 L 1358 906 L 1344 940" fill="none" stroke="#2e2a24" stroke-width="1.7600000000000002" stroke-linecap="round"/>
+<path d="M 1377 922 L 1386 912 L 1393 930" fill="none" stroke="#2e2a24" stroke-width="1.7600000000000002" stroke-linecap="round"/>
+<path d="M 1377 922 L 1386 910 L 1395 933" fill="none" stroke="#2e2a24" stroke-width="1.7600000000000002" stroke-linecap="round"/>
+<path d="M 1377 922 L 1386 908 L 1398 936" fill="none" stroke="#2e2a24" stroke-width="1.7600000000000002" stroke-linecap="round"/>
+<path d="M 1377 922 L 1386 906 L 1400 940" fill="none" stroke="#2e2a24" stroke-width="1.7600000000000002" stroke-linecap="round"/>
+<path d="M 1110 715 Q 1230 770 1365 912" fill="none" stroke="#cfc6ab" stroke-width="1.6" stroke-dasharray="7,5"/>
+<path d="M 1145 715 Q 1260 770 1365 912" fill="none" stroke="#cfc6ab" stroke-width="1.6" stroke-dasharray="7,5"/>
+<path d="M 1180 715 Q 1290 770 1365 912" fill="none" stroke="#cfc6ab" stroke-width="1.6" stroke-dasharray="7,5"/>
+<path d="M 1215 715 Q 1320 770 1365 912" fill="none" stroke="#cfc6ab" stroke-width="1.6" stroke-dasharray="7,5"/>
+<circle cx="1460" cy="735" r="18" fill="#d9a441" stroke="#2e2a24" stroke-width="2"/>
+<line x1="1483" y1="735" x2="1493" y2="735" stroke="#2e2a24" stroke-width="2.4"/>
+<line x1="1476" y1="751" x2="1483" y2="758" stroke="#2e2a24" stroke-width="2.4"/>
+<line x1="1460" y1="758" x2="1460" y2="768" stroke="#2e2a24" stroke-width="2.4"/>
+<line x1="1444" y1="751" x2="1437" y2="758" stroke="#2e2a24" stroke-width="2.4"/>
+<line x1="1437" y1="735" x2="1427" y2="735" stroke="#2e2a24" stroke-width="2.4"/>
+<line x1="1444" y1="719" x2="1437" y2="712" stroke="#2e2a24" stroke-width="2.4"/>
+<line x1="1460" y1="712" x2="1460" y2="702" stroke="#2e2a24" stroke-width="2.4"/>
+<line x1="1476" y1="719" x2="1483" y2="712" stroke="#2e2a24" stroke-width="2.4"/>
+<text x="1290" y="1015" font-family="Georgia, serif" font-size="18" text-anchor="middle" font-weight="normal" fill="#2e2a24">Krakatau, May 1884 — nine months after the</text>
+<text x="1290" y="1039" font-family="Georgia, serif" font-size="18" text-anchor="middle" font-weight="normal" fill="#2e2a24">eruption, the only living thing found: a spider</text>
+<text x="1050" y="1102" font-family="Georgia, serif" font-size="20" text-anchor="start" font-weight="normal" fill="#2e2a24">F · On sterilised islands, life's first scout</text>
+<text x="1050" y="1127" font-family="Georgia, serif" font-size="20" text-anchor="start" font-weight="normal" fill="#2e2a24">so often arrives by air, on a thread.</text>
+<text x="70" y="1212" font-family="Georgia, serif" font-size="19" font-style="italic" text-anchor="start" font-weight="normal" fill="#2e2a24">Plate XVII · Little Aeronauts — Lapis, atelier, October 21, 2026</text>
+</svg>
